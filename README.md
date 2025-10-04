@@ -1,70 +1,75 @@
-# ChatGPTstatus
-Check Real-time status of OpenAI ChatGPT and other services.
-
 ChatGPT Down Detector
 
-Check real-time status of ChatGPT with this lightweight browser extension. Get accurate, up‑to‑date OpenAI status updates and outage reports at a glance.
+A lightweight browser extension that monitors the real-time status of OpenAI ChatGPT and related services.
+
+ChatGPT Down Detector website - https://chatgptdowndetector.com/
+
+Download Chrome Extension Link - https://chromewebstore.google.com/detail/chatgpt-down-detector/oplkcldndjblndapioelpdngpdfhlkme
 
 Overview
 
-This extension helps you monitor OpenAI’s services and see whether ChatGPT is experiencing disruptions. Instead of guessing whether an issue is on your end or OpenAI’s, you can instantly check the official status.
+Quickly check whether ChatGPT is experiencing disruptions with this minimal browser extension. Get accurate, up-to-date OpenAI status updates and outage reports at a glance—no more guessing if issues are on your end or OpenAI's.
 
-Why install this extension?
+Why Use This Extension?
 
-Instant visibility – One click lets you see ChatGPT’s operational status.
+Instant Visibility - One-click access to ChatGPT's operational status
 
-No more guesswork – Quickly determine if issues are local or OpenAI-related.
+Eliminate Guesswork - Immediately determine if problems are local or service-related
 
-Minimalist design – A clean, distraction‑free interface.
+Clean Interface - Minimalist, distraction-free design
 
-Zero data collection – We don’t track or store your information.
+Privacy Focused - Zero data collection - we don't track or store your information
 
-Key features
+Key Features
 
-Real‑Time Status Checks: Polls OpenAI’s official status API every 30 seconds. Clear indicators show if systems are operational (🟢) or down (🔴).
+Real-Time Status Monitoring - Polls OpenAI's official status API every 30 seconds with clear indicators (🟢 Operational / 🔴 Down)
 
-Incident Intelligence: Displays detailed outage descriptions, impact assessments (Minor/Major/Critical) and links to official reports.
+Detailed Incident Reports - Shows comprehensive outage descriptions, impact assessments (Minor/Major/Critical), and official updates
 
-Lightweight & Fast: Uses about 15 KB of memory and runs only when you click the icon.
+Lightweight Performance - Uses approximately 15 KB memory and only activates when clicked
 
-Privacy‑First: No tracking, analytics or access to your ChatGPT conversations.
+Privacy First - No tracking, analytics, or access to your ChatGPT conversations
 
-How it works
+How It Works
 
-Click the extension icon in your browser toolbar.
+Click the extension icon in your browser toolbar
 
-View ChatGPT’s current status within milliseconds.
+View ChatGPT's current status within milliseconds
 
-Access detailed outage information if available.
+Access detailed outage information when available
 
-Who needs this?
+Ideal For
 
-Regular ChatGPT users who want to avoid frustration during outages.
+Regular ChatGPT users who want to avoid frustration during outages
 
-Developers using the OpenAI API who need quick service health monitoring.
+Developers using OpenAI API who need quick service health monitoring
 
-Content creators and students who rely on ChatGPT and need to plan around downtime.
+Content creators and students who rely on ChatGPT and need to plan around downtime
 
-Why trust our status reports?
+Why Trust Our Reports?
 
-Unlike third‑party detectors that rely on user reports, this extension:
+Unlike third-party detectors relying on user reports, our extension:
 
-Pulls data directly from OpenAI’s official status API (status.openai.com).
+Pulls data directly from OpenAI's official status API
 
-Displays official incident descriptions without speculation.
+Displays official incident descriptions without speculation
 
-Updates every 30 seconds for maximum accuracy.
+Updates every 30 seconds for maximum accuracy
 
-FAQ
+Installation
+
+[Add installation instructions specific to your extension distribution method]
+
+FAQs
 
 Q: Does this slow down my browser?
 
-No – it only activates when clicked and uses minimal resources.
+A: No - it only activates when clicked and uses minimal resources.
 
 Q: Will it notify me about outages?
 
-Currently it shows status on demand. Notifications may come in future versions.
+A: Currently shows status on demand. Notification features may be added in future versions.
 
 Q: Is this affiliated with OpenAI?
 
-No – this is an independent tool that uses public APIs.
+A: No - this is an independent tool that uses publicly available APIs.
